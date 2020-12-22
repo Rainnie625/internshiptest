@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Rainnie625/internshiptest#readme",
   "dependencies": {
     "basscss-sass": "^4.0.0",
+    "css-scss": "^0.1.1",
     "slick-carousel": "^1.8.1"
   }
 }
